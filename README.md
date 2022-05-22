@@ -1,3 +1,1 @@
-# pharetra
-
-https://onurmaden.github.io/pharetra/
+# https://onurmaden.github.io/pharetra/
