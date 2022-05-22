@@ -1,1 +1,1 @@
-# [pharetra website link](https://barannsulu.github.io/TinRab)
+# [pharetra website link](https://onurmaden.github.io/pharetra/)
