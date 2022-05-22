@@ -138,3 +138,9 @@ header .login a:hover{
     list-style: disc;
     list-style-position: inside;
 }
+img {
+    float: right;
+    margin: 10px;
+    border:2px solid #333;
+    border-radius: 20px;
+}
